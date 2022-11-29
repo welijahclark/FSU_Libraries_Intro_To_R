@@ -1,5 +1,8 @@
 Hello, and welcome to my Intro to R workshop materials that I did within FSU Libraries at my data fellowship!
 
-For context, I collaborated with Semhal Redda to come up with R exercises and teach the material in a live workshop, and I also wrote further scripts to answer follow-up questions learners had.
+For context, I collaborated with Semhal Redda to create a PowerPoint for learners to follow along with, an overall series of exercises, as well as co-teaching the material in a live workshop environment.
+In addition, I also wrote further scripts to answer conceptual questions learners had during workshops.
 
-You can also contact my fellowship supervisor Dr. Nicholas Ruhs at nruhs@fsu.edu if you would like to ask additional questions.
+The overall goal of this material was to allow learners to implement Intro to Applied Statistics concepts within an RStudio environment as a foundation to learning the fundamentals of R.
+
+You can also contact my fellowship supervisor Dr. Nicholas Ruhs at nruhs@fsu.edu if you would like to ask additional questions about this particular project or curricula.
