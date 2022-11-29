@@ -1,4 +1,5 @@
-#Follow-Up to Question From Elijah
+#Follow-Up to Question; From Elijah
+#Was asked why there was an emphasis on numeric data versus integer data
 
 #First, this demonstrates storing a floating-point number numerically versus as a series of integers
 #X is numeric, y is integer based
@@ -29,8 +30,7 @@ mean(X)
 mean(Ecks)
 #[1] 5.6
 
-#However, there is no major functional difference between numerical and integer data
-#(Provided that you don't need decimals for your numeric data, that is...)
+#However, there is no major functional difference between numerical and integer data, provided that you don't need decimals for your numeric data
 #We can demonstrate this with an object named Z, which is similar to Ecks other than being numeric
 Z<- c(3, 8, 4, 6, 7)
 mean(Z)
