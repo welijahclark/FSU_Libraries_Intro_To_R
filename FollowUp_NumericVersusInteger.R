@@ -1,5 +1,5 @@
-#Follow-Up to Question; From Elijah
-#Was asked why there was an emphasis on numeric data versus integer data
+#Follow-Up to question; was asked why there was an emphasis on numeric data versus integer data
+#Written by W. Elijah Clark
 
 #First, this demonstrates storing a floating-point number numerically versus as a series of integers
 #X is numeric, y is integer based
