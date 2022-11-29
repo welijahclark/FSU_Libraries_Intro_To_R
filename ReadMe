@@ -6,3 +6,6 @@ In addition, I also wrote further scripts to answer conceptual questions learner
 The overall goal of this material was to allow learners to implement Intro to Applied Statistics concepts within an RStudio environment as a foundation to learning the fundamentals of R.
 
 You can also contact my fellowship supervisor Dr. Nicholas Ruhs at nruhs@fsu.edu if you would like to ask additional questions about this particular project or curricula.
+
+As one last note, the workshop uses a dataset that is a cleaned version of a Starbucks Menu Nutritional dataset found on Kaggle (https://www.kaggle.com/datasets/starbucks/starbucks-menu)
+
