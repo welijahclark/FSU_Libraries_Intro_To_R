@@ -1,9 +1,9 @@
-#A follow-up script to answer a question from Elijah
+#Follow-Up to question; was asked what the [1] in front of each print statement result actually *is*
+#Written by W. Elijah Clark
 
-#The [X] output from the print() function in R just denotes what line your output is on
+#The [X] output from the print() function in R denotes what line your output is on
 
-
-#With a relatively short vector, it will condense onto one line and not do a whole lot
+#With a vector that's three objects long, it will condense into one line and not do a whole lot
 #You can run the below; my next comment is what I got
 SomeAnimalsILike <- c("cats", "dogs", "elk")
 print(SomeAnimalsILike)
